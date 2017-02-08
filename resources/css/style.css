@@ -34,3 +34,19 @@ html {
  .ourProcess p {
    font-size: 14px;
  }
+
+#design {
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+  background-image: url("../the-flatiron-building.jpg");
+}
+
+nav {
+  font-family: Helvetica;
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
+}
