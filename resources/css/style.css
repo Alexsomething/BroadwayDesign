@@ -16,3 +16,21 @@ html {
 .navigation h3 {
   font-size: 18px;
 }
+
+.ourProcess {
+  font-family: Helvetica;
+}
+
+.ourProcess h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.ourProcess h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+ .ourProcess p {
+   font-size: 14px;
+ }
